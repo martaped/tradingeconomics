@@ -4,10 +4,11 @@ Esta es una aplicación web desarrollada con **Flask** que permite comparar el *
 
 ## 🌍 Funcionalidad
 
-- Selección de dos países (México, Argentina, Suecia, EE. UU.)
+- Selección de dos países (México, Suecia)
 - Consulta del PIB y población desde 2015
 - Cálculo del PIB per cápita (por mil habitantes)
 - Visualización con un gráfico generado por Matplotlib
+- INGRESA A LA PAGINA https://tradingeconomics-analyst.onrender.com/
 
 ## 📦 Requisitos
 
